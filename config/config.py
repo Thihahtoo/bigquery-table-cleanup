@@ -1,4 +1,4 @@
-project_id = "skyuk-uk-viewing-tf-dev"
+project_id = "<your_gcp_project_id>"
 region = "EU"
 clean_all_tables = False
 clean_csv_when_done = False
